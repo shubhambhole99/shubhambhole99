@@ -23,15 +23,22 @@
 
 
 # Languages and Tools
+## Frontend
 [<img align="left"  width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]()
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]()
 [<img align="left" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="padding-right:10px;" />]()
+## Backend
+
+## Tools
+
+
 <br />
 <br />
 
+# My Github Stats 
 
 
 
