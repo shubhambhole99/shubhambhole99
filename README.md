@@ -35,11 +35,15 @@
 <br />
 <br />
 
+
+
 # My Github Stats 
 
-[![](https://raw.githubusercontent.com/shubhambhole99/Git-Stats/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/shubhambhole99/Git-Stats/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shubhambhole99/Git-Stats/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/shubhambhole99/Git-Stats/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shubhambhole99/Git-Stats/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhambhole99&show_icons=true&locale=en" alt="shubhambhole99" /></p>
+<p><img style="color:black;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhambhole99&" alt="shubhambhole99" /></p>
+
 
 
 
