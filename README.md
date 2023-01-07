@@ -3,9 +3,11 @@
 <img align="right" alt="Coding" width="450" src="https://natrixsoftware.com/archive-data/wp-content/media/2021/06/WebDevelopment.gif" />
 
 
+
 # Hi there 👋,I'm Shubham Bhole
 <h3 align="justify">An aspiring Java backend developer with a talent for clear and concise communication, Keen on collaborating with cross-functional teams to deliver high-quality technical solutions. My ability to articulate complex ideas in an easy-to-understand way makes me an asset to any project, and I am confident in my ability to contribute value to any organization.<h3>
-
+ 
+ 
 # About Me
  - 🔭 I’m currently doing a **Full Stack Web Developement Course**
 
