@@ -3,7 +3,7 @@
 
 
 # Hi there 👋,I'm Shubham Bhole
-**A skilled backend developer with a talent for clear and concise communication, Keen on collaborating with cross-functional teams to deliver high-quality technical solutions. My ability to articulate complex ideas in an easy-to-understand way makes me an asset to any project, and I am confident in my ability to contribute value to any organization.**
+**An aspiring Java backend developer with a talent for clear and concise communication, Keen on collaborating with cross-functional teams to deliver high-quality technical solutions. My ability to articulate complex ideas in an easy-to-understand way makes me an asset to any project, and I am confident in my ability to contribute value to any organization.**
 
 # About Me
  - 🔭 I’m currently doing a **Full Stack Web Developement Course**
@@ -12,7 +12,7 @@
 
  - 📫 How to reach me: **shubhambhole68@gmail.com**
 
-
+ - 💬 Tell me about: **Coding, DSA, Biohacking, Finance**
 
 # Connect With Me
 [<img align="left"  width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" style="padding-right:10px;" />]()
@@ -23,22 +23,23 @@
 
 
 # Languages and Tools
-## Frontend
 [<img align="left"  width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]()
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]()
 [<img align="left" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="padding-right:10px;" />]()
-## Backend
 
-## Tools
 
 
 <br />
 <br />
 
 # My Github Stats 
+
+[![](https://raw.githubusercontent.com/shubhambhole99/Git-Stats/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shubhambhole99/Git-Stats/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shubhambhole99/Git-Stats/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shubhambhole99/Git-Stats/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shubhambhole99/Git-Stats/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
