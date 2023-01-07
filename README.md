@@ -2,7 +2,10 @@
 
 
 
-### Hi there 👋
+# Hi there 👋,I'm Shubham Bhole
+**A skilled backend developer with a talent for clear and concise communication, Keen on collaborating with cross-functional teams to deliver high-quality technical solutions. My ability to articulate complex ideas in an easy-to-understand way makes me an asset to any project, and I am confident in my ability to contribute value to any organization.**
+
+# About Me
  - 🔭 I’m currently doing a **Full Stack Web Developement Course**
 
  - 🌱 I’m currently learning **Java,SQL,Springboot**...
@@ -28,9 +31,12 @@
 [<img align="left" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="padding-right:10px;" />]()
 <br />
 <br />
-<a href="youtube.com"> youtube</a>
-# till where
-https://www.vectorlogo.zone/logos/java/java-vertical.svg
+
+
+
+
+
+
 <!--
 **shubhambhole99/shubhambhole99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
