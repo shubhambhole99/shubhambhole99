@@ -1,6 +1,8 @@
 ### Hi there 👋
-### 🔭 I’m currently doing a Full Stack Web Developement Course From Masai School
-🌱 I’m currently learning
+-🔭 I’m currently doing a **Full Stack Web Developement Course**
+-🌱 I’m currently learning **Java,SQL,Springboot**
+-📫 How to reach me: ...
+
 
 <!--
 **shubhambhole99/shubhambhole99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
