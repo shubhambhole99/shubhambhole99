@@ -48,9 +48,16 @@
 # My Github Stats 
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhambhole99&show_icons=true&locale=en" alt="shubhambhole99" /></p>
-<p><img style="color:black;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhambhole99&" alt="shubhambhole99" /></p>
+   <p align="left">      
+  <a href="https://github.com/shubhambhole99/github-readme-stats"><img alt="shubhambhole99 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambhole99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>      
+     <br/>
+   <p align="left">
+    <a href="https://github.com/shubhambhole99/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="masum streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhambhole99&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>
+ 
 
 
 
