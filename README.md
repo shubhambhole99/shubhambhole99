@@ -8,7 +8,7 @@
 
 # Hi there 👋,I'm Shubham Bhole
  
-<img align="right" style="margin-left:400px;border-radius:500px" alt="Coding" width="450"  src="https://64.media.tumblr.com/f22941411f4b748bb4ff458ef0eb193e/tumblr_ofc84csirv1tq4of6o1_500.gif" border-radius="500%" /><bvq>
+<img align="right" style="margin-left:800px;" alt="Coding" width="450"  src="https://64.media.tumblr.com/f22941411f4b748bb4ff458ef0eb193e/tumblr_ofc84csirv1tq4of6o1_500.gif" border-radius="500%" /><bvq>
 <h3 align="left">An aspiring Java backend developer with a talent for clear and concise communication, Keen on collaborating with cross-functional teams to deliver high-quality technical solutions. My ability to articulate complex ideas in an easy-to-understand way makes me an asset to any project, and I am confident in my ability to contribute value to any organization.<h3>
  
  
