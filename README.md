@@ -6,13 +6,13 @@
 <!------------------Banner Section----------------->
 
 
-
+<img  align="right" style="margin-left:800px;" alt="Coding" width="50%"  src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80" border-radius="500%"/>
 
 # Hi there 👋,I'm Shubham Bhole
 
 ### An aspiring Java backend developer with a talent for clear and concise communication, Keen on collaborating with cross-functional teams to deliver high-quality technical solutions. My ability to articulate complex ideas in an easy-to-understand way makes me an asset to any project, and I am confident in my ability to contribute value to any organization.
 
-<img  style="margin-left:800px;" alt="Coding" width="100%"  src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80" border-radius="500%"/>
+
  
 # About Me
  - 🔭 I’m currently doing a **Full Stack Web Developement Course**
@@ -24,7 +24,7 @@
  - 💬 Tell me about: **Coding, DSA, Biohacking, Finance**
 
 # Connect With Me
-[<a href="https://www.linkedin.com/in/shubham-bhole-b45497157/"><img align="left" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" style="padding-right:10px;"/><a/>]()
+[<a href="https://www.linkedin.com/in/shubham-bhole-b45497157/"><img align="left" width="46px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" style="padding-right:10px;"/><a/>]()
 <!-- [<a href="shubhambhole68@gmail.com"><img align="left"  width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" style="padding-right:10px;" /><a/>]() -->
 
 <br/>
@@ -34,12 +34,12 @@
  github slack project discord -->
 
 # Languages and Tools
-[<img align="left"  width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]()
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]()
-[<img align="left" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="padding-right:10px;" />]()
+[<img align="left"  width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
+[<img align="left" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]()
+[<img align="left" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]()
+[<img align="left" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]()
+[<img align="left" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]()
+[<img align="left" width="46px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" style="padding-right:10px;" />]()
 
 
 
